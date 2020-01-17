@@ -21,7 +21,7 @@ and many more. I also contributed to pgRouting, GeoNode and Geoserver.
 ### Best Momments
 * Completing all GrassGis Unit Testing task was one of the best momments as it took me a lot of time to do them.
 * Helping students and recieving "thanks" message from them was a great momment, I was pretty happy that I helped them.
-* The Best momment was When I got appriciation from mentors including (Rahul Chauhan)[https://github.com/rahulworld] , [Victoria](https://github.com/vrautenbach) , [Cameron](https://github.com/CamGreen) , [Vicky Vergara](https://github.com/cvvergara) .
+* The Best momment was When I got appriciation from mentors including [Rahul Chauhan](https://github.com/rahulworld) , [Victoria](https://github.com/vrautenbach) , [Cameron](https://github.com/CamGreen) , [Vicky Vergara](https://github.com/cvvergara) .
 
 ### Mentors
 I choosed OSGeo as my Organisation, I am very glad that, though I am not so good in taking decision, but choosing OSGeo as the Organisation was one of my best decision that I had ever taken. OSGeo is a great and one of the oldest and Sucessful GCI organisation.

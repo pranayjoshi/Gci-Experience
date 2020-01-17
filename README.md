@@ -15,7 +15,7 @@ and many more. I also contributed to pgRouting, GeoNode and Geoserver.
 * I have also done a variety of task related to Design, Research, Documentation and Quality Assurance as well.
 
 ### Interesting & Funny Momments
-* Well The most Interesting part happen when Me and Lucifier[Shivam](https://github.com/ShivamRai2003) were on a discussion on pgRouting with [cvvergara](https://github.com/cvvergara) , and she gave both of us a task on team work, she also congratulated both of us after the approval of the task. It was a great fun working on the task. It was one of the most peculiar task in GCI.
+* Well The most Interesting part happen when Me and Lucifier([Shivam](https://github.com/ShivamRai2003)) were on a discussion on pgRouting with [cvvergara](https://github.com/cvvergara) , and she gave both of us a task on team work, she also congratulated both of us after the approval of the task. It was a great fun working on the task. It was one of the most peculiar task in GCI.
 * There was one more occasion when me and other participant was set up in a discussion, it was a small comedy though while discussing, but it was a great conversation among us.
 
 ### Best Momments

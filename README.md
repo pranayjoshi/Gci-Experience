@@ -1,3 +1,5 @@
+## My Blog
+[clickhere](https://pranayteaches.github.io/pranayteaches/)
 ## OSGeo: Best GCI Experience.
 ![img.png]({{site.baseurl}}/image.png)
 ### What is GCI?
